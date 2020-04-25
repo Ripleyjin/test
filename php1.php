@@ -1,3 +1,0 @@
-
-phpinfo();
-edit1
